@@ -1,0 +1,10 @@
+streamlit
+langchain
+streamlit_chat
+torch
+accelerate
+sentence_transformers
+faiss_cpu
+beautifulsoup4
+requests
+ctransformers
